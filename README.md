@@ -1,0 +1,4 @@
+# phpexcel_calendar
+phpexcelを使って適当なスケジュール表を作成
+
+注意：このファイルを使用したい時はPHPExcelをインポートしてください。
